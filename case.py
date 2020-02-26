@@ -10,8 +10,8 @@ dataset = pd.read_csv('listings.csv')
 
 # --------Find min/max---------
 value = input('Input which value to find the min and max : ')
-print('Max ' + value + ' : ' + str(dataset['latitude'].max()))
-print('Min ' + value + ' : ' + str(dataset['latitude'].min()))
+print('Max ' + value + ' : ' + str(dataset[value].max()))
+print('Min ' + value + ' : ' + str(dataset[value].min()))
 
 
 # ---------Eliminate null value-------
