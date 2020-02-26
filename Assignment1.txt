@@ -1,0 +1,16 @@
+---Review Question---
+Q1  : How would you define Machine Learning?
+Ans : Machine Learning adalah proses pembelajaran suatu mesin untuk mendapatkan output yang diinginkan tanpa penggunaan instruksi spesifik.
+
+Q2  : Would you frame the problem of spam detection as a supervised learning or an unsupervised learning problem?
+Ans : Menurut saya spam detection adalah masalah yang diselesaikan dengan menggunakan supervised learning.
+
+Q3  : What are the two most common supervised tasks?
+Ans : Object Recognition dan speech recognition.
+
+Q4  : Can you name four common unsupervised tasks?
+Ans : Clustering, anomaly detection, dimensionality reduction, dan finding association rules.
+
+---Case Study---
+Q1  : Analyse the data and give a suggestion of type of machine learning system that can be applied.
+Ans : Untuk mendapatkan fitur yang lebih penting dalam menentukan harga kita dapat menggunakan unsupervised machine learning.
